@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=FCF2CE&section=header&text=Welcome%20JunHee's%20GitHub&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=FCF2CE&section=header&text=Welcome%20JunHee's%20GitHub&fontSize=40)
 
 ### 🌱 팀과의 협업을 중시하고, 끊임없이 성장하는 개발자가 되고 싶습니다.
 사용자 중심의 문제 해결을 위해 항상 배우고 성장하는 자세를 가지고 있으며,
@@ -12,7 +12,7 @@
 
 <br>
 
-### :wrench: Tech Stack
+## :wrench: Tech Stack
 
 #### Main
 <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
